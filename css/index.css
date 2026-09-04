@@ -1,16 +1,10 @@
 *{
-
     margin: 0;
-
     padding: 0;
-
     box-sizing: border-box;
-
     font-family: Arial, Helvetica, sans-serif;
-
 }
 /* Website Header */
-
 header {
     background-color: #ffffff;
     padding: 20px;
@@ -18,11 +12,8 @@ header {
 }
 /* Website Logo */
 .logo{
-
     width: 170px;
-
     height: auto;
-
 }
 
 nav a{
@@ -32,25 +23,19 @@ nav a{
     font-weight: 600;
     margin: 0 12px;
 }
+
 nav a:hover{
     color: #ff6b00;
     text-decoration: underline;
 }
 
 #home-hero{
-
     background-image: url("../images/photo2.jpg");
-
     background-repeat: no-repeat;
-
     background-position: center;
-
     background-size: cover;
-
     height: 650px;
-
     padding: 55px 80px;
-
 }
 
 #home-hero h1{
@@ -68,19 +53,12 @@ nav a:hover{
 }
 
 /* Home Hero Description */
-
 #home-hero p{
-
     color: white;
-
     font-size: 18px;
-
     line-height: 28px;
-
     width: 420px;
-
     margin-bottom: 35px;
-    
 }
 
 /* Hero Buttons */
@@ -102,15 +80,10 @@ nav a:hover{
 }
 
 .order-btn:hover{
-
     background-color: #D32F2F;
-
 }
 
 .menu-btn:hover{
-
     background-color: white;
-
     color: #222;
-
 }
